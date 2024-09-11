@@ -1,4 +1,4 @@
 # python
 python projects
 <br>
-Author - Sachin Rawat
+Author - Sachin Rawat (machine learning)
